@@ -9,7 +9,7 @@ cap.set(4, frameHeight)
 cap.set(10, 150)
 
 myColors = [[0, 156, 0, 10, 201, 255], [0, 119, 147, 27, 255, 255]]
-myColorValues = [[51, 153, 255], [255, 0, 255]]
+myColorValues = [[51, 153, 255], [0, 255, 255]]
 myPoints = []  ## [x , y , colorId ]
 
 
