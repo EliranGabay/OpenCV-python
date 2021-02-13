@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-img = cv2.imread("car.jpg")
+img = cv2.imread("")  # path resource
 print(img.shape)
 
 imgResize = cv2.resize(img, (600, 300))
